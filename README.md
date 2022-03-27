@@ -1,5 +1,7 @@
 ## All base emus for PS2 Classics released on PS4 to be used with tools such as PS2-FPKG
 
+* **Note!: This are only the base files and DO NOT contain any rom file!**
+
 ## Why are the files in .z01 etc format?
 
 * Because Github restricts upload of 25MB max, you must unarchive them using WinRar or whatever you want.
