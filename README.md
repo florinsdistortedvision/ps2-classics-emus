@@ -11,6 +11,7 @@
 
 ## What emus are included?
 
+* ADK Damashii
 * Arc Twilight of the Spirits™ (EUR)
 * Arc Twilight of the Spirits™ v2 (EUR)
 * BULLY (USA)
