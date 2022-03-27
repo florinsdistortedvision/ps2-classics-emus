@@ -6,7 +6,7 @@
 
 ## What do I do with these?
 
-* After unarchiving them, put the folders in emu folder in PS2-FPKG 0.6 tool.
+* After unarchiving them, put the folders in emus folder in PS2-FPKG 0.6 tool.
 * Done.
 
 ## What emus are included?
