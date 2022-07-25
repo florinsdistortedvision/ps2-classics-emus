@@ -43,6 +43,7 @@
 * Jak3 (USA)
 * Jak3 v2 (USA)
 * KOF 2000 (USA)
+* KOF 2000 v2 (USA)
 * KOF 98
 * MANHUNT (USA)
 * MAX PAYNE
