@@ -4,7 +4,7 @@
 
 ## Why are the files in .z01 etc format?
 
-* Because Github restricts upload of 25MB max, you must unarchive them using WinRar or whatever you want.
+* .z001, 002, 003 etc. are split zip parts. Because Github restricts upload of 25MB max, **you must download them ALL to unarchive them** using WinRar or whatever you want.
 
 ## What do I do with these?
 
